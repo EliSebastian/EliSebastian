@@ -1,8 +1,13 @@
 - Mi nombre es Eli Sebastian Herrera Aguilar
-- Me estoy desarollando en Desarollo Web
+- Soy un Desaroollador FullStack
 - Lenguajes:
 - PHP
-- JavaScript (jQuery)
+- JavaScript {
+  - jQuery
+  - Node.js (ejs)
+  - React.js
+}
+
 - C#
 - C++
 - Pyhton
