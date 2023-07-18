@@ -6,6 +6,8 @@
   - jQuery
   - Node.js (ejs)
   - React.js
+  - Vue.js
+  - Vite.js
 }
 
 - C#
