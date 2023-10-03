@@ -1,5 +1,5 @@
-- Mi nombre es Eli Sebastian Herrera Aguilar
-- Soy un Desaroollador FullStack
+- Eli Sebastian Herrera Aguilar / Desarollador FullStack
+
 Back-end: 
 - PHP
 - Node.js
