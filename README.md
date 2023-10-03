@@ -1,20 +1,31 @@
 - Mi nombre es Eli Sebastian Herrera Aguilar
 - Soy un Desaroollador FullStack
-- Lenguajes:
+Back-end: 
 - PHP
-- JavaScript {
-  - jQuery
-  - Node.js (ejs)
-  - React.js
-  - Vue.js
-  - Vite.js
-}
-
+- Node.js
 - C#
-- C++
-- Pyhton
 
-<!---
-EliSebastian/EliSebastian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Front-end: 
+- C#
+- HTML
+- CSS
+- Boostrap
+- Tailwind
+- Vue.js
+- React.js
+- Next.js
+
+Scripting: 
+- C++
+- Python
+- C#
+
+Concepts:
+- API's
+- Web Sockets
+- POO
+- ORM's
+
+OS:
+- Windows
+- Linux
