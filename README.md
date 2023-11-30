@@ -3,10 +3,8 @@
 Back-end: 
 - PHP
 - Node.js
-- C#
 
-Front-end: 
-- C#
+Front-end:
 - HTML
 - CSS
 - Boostrap
@@ -18,7 +16,6 @@ Front-end:
 Scripting: 
 - C++
 - Python
-- C#
 
 Concepts:
 - API's
